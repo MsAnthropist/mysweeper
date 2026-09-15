@@ -1,4 +1,4 @@
-# Kerbwatch
+# mysweeper
 
 A map of SF street sweeping schedules and residential parking permit (zone G)
 areas — installable to a phone home screen, no app store required.
