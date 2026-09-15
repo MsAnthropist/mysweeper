@@ -12,7 +12,7 @@ areas — installable to a phone home screen, no app store required.
    branch `main`, folder `/ (root)`.
 4. In the **Actions** tab, run the "Sync SF data" workflow manually once
    (via "Run workflow") so `data/` gets populated instead of sitting empty.
-5. Visit `https://<your-username>.github.io/<repo-name>/` — that's the live
+5. Visit `https://MsAnthropist.github.io/mysweeper/` — that's the live
    map. Share that link with anyone; no install or account needed to view it.
 
 ## Installing to a home screen
