@@ -1,0 +1,13 @@
+{
+  "name": "Kerbwatch",
+  "short_name": "Kerbwatch",
+  "description": "SF street sweeping and residential parking permit zones on one map.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#12181B",
+  "theme_color": "#12181B",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
